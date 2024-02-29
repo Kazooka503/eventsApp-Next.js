@@ -1,0 +1,36 @@
+Intro:
+"The React Framework for Production"
+"Next.js gives you the best developer experience
+with all the features you need for production: hybrid static and 
+server side rendering. TypeScript support, smart bundling, route pre-fetching, and more.
+No config needed."
+
+React is a JavaScript library that helps developers
+build complex user interfaces easier than it would be 
+with vanilla JS. Next.js is a Framework built on top of 
+React. 
+
+Next.js has an easily accesible Web SDK.
+
+Mean Feature: Server Side Rendering
+
+- What is the difference between rendering the page 
+in client or server?
+
+(CSR) Client Side Rendering: Client downloads code from web server - 
+then JavaScript is executed by client's web browser
+and all HTML content will be rendered.
+
+(SSR) Server Side Rendering: Preparing the content of the page on the 
+web server so when a client visits a page it is already available for
+the client. Allows for fetching of data and prerendering of components on 
+the web server. 
+
+SSR vs CSR
+(When to use SSR over CSR)
+Depends on user experience we want to create and project
+requirements. SSR can improve the performance and over all 
+experience depending on the app. It's great for 
+SEO(search engine optimization) as well. 
+
+In Summary - Next JS is a react framework ready for production.
