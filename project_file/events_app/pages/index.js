@@ -1,10 +1,6 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
-import Link from 'next/link';
+import Head from 'next/head';
 import { HomePage } from '../src/components/home/home-page';
-import { Header } from '../src/components/header/header';
-import { Footer } from '../src/components/footer/footer';
+
 
 
 export default function Home({data}) {
