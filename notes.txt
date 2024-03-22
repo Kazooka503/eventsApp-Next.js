@@ -34,3 +34,12 @@ experience depending on the app. It's great for
 SEO(search engine optimization) as well. 
 
 In Summary - Next JS is a react framework ready for production.
+
+Improvements Needed for current Build:
+
+Data Base - Currently is in read only, will not allow us to send email registrations through to events
+RWD: Responsive Web Design, rendering issues for footer, have content and pages scale according to screen size
+Title / page - Image/ page
+More feature in event page
+Add HEAD to each page
+    - Adds specific metadata/page
