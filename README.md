@@ -17,8 +17,8 @@ This is a simple events application built using Next.js framework. It allows use
 
 ## Mean Feature: Server Side Rendering
 
-- What is the difference between rendering the page 
-in client or server?
+*What is the difference between rendering the page 
+in client or server?*
 
 (CSR) Client Side Rendering: Client downloads code from web server - 
 then JavaScript is executed by client's web browser
