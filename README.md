@@ -2,6 +2,10 @@
 
 This is a simple events application built using Next.js framework. It allows users to browse events, and register to them with their email address. 
 
+![site](https://github.com/Kazooka503/eventsApp-Next.js/assets/38452989/05d6e32c-c3eb-4053-a46a-eb260787e1e3)
+
+See live demo: https://next-js-project-574b.vercel.app/
+
 ## Features
 
 - View upcoming events
