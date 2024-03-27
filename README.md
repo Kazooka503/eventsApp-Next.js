@@ -14,6 +14,20 @@ This is a simple events application built using Next.js framework. It allows use
 - SASS
 - JSON
 - API
+
+## Mean Feature: Server Side Rendering
+
+- What is the difference between rendering the page 
+in client or server?
+
+(CSR) Client Side Rendering: Client downloads code from web server - 
+then JavaScript is executed by client's web browser
+and all HTML content will be rendered.
+
+(SSR) Server Side Rendering: Preparing the content of the page on the 
+web server so when a client visits a page it is already available for
+the client. Allows for fetching of data and prerendering of components on 
+the web server.
   
 ## Getting Started
 
